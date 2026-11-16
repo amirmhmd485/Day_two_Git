@@ -7,5 +7,8 @@ public:
 	void PrintHelloITI() {
 		cout << " Hello ITI \n";
 	}
+	void PrintHelloGit() {
+		cout << "Hello Git\n";
+	}
 };
 
