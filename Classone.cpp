@@ -6,4 +6,7 @@ public :
 	void PrintHello() {
 		cout << "Hello Wrold!\n";
 	}
+	void PrintFromBranchAmir() {
+		cout << "Form Branch Amir \n";
+	}
 };
