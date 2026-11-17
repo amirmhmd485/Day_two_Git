@@ -3,7 +3,7 @@ class Classone
 {
 public:
 	string PrintHelloWorld() {
-		return "Hello world\n";
+		return "Hello Egy\n";
 	}
 };
 

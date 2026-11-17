@@ -4,11 +4,11 @@ using namespace std;
 class Second
 {
 public:
-	void PrintHelloITI() {
-		cout << " Hello ITI \n";
-	}
 	void PrintHelloGit() {
-		cout << "Hello Git\n";
+		cout << " Hello Git \n";
+	}
+	void PrintHelloITI() {
+		cout << "Hello ITI\n";
 	}
 };
 

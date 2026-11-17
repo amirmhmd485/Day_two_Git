@@ -4,6 +4,6 @@ using namespace std;
 class Hellojava {
 public :
 	void PrintHello() {
-		cout << "Hello Wrold!\n";
+		cout << "life is fun if it runs\n";
 	}
 };
